@@ -1,1 +1,2 @@
 cikarma
+biraz edit
